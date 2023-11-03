@@ -1,0 +1,301 @@
+,Ticker,Name,Weight
+0,600519 CH Equity,Kweichow Moutai Co Ltd,6.159619
+1,300750 CH Equity,Contemporary Amperex Technology Co Ltd,3.665532
+2,601318 CH Equity,Ping An Insurance Group Co of China Ltd,2.428359
+3,600036 CH Equity,China Merchants Bank Co Ltd,2.17796
+4,000858 CH Equity,Wuliangye Yibin Co Ltd,1.715305
+5,601012 CH Equity,LONGi Green Energy Technology Co Ltd,1.674253
+6,002594 CH Equity,BYD Co Ltd,1.481293
+7,600900 CH Equity,China Yangtze Power Co Ltd,1.37836
+8,601166 CH Equity,Industrial Bank Co Ltd,1.345449
+9,000333 CH Equity,Midea Group Co Ltd,1.321378
+10,300059 CH Equity,East Money Information Co Ltd,1.235355
+11,002475 CH Equity,Luxshare Precision Industry Co Ltd,0.99715
+12,600030 CH Equity,CITIC Securities Co Ltd,0.989658
+13,601888 CH Equity,China Tourism Group Duty Free Corp Ltd,0.976993
+14,600887 CH Equity,YILI,0.95887
+15,603259 CH Equity,WuXi AppTec Co Ltd,0.953813
+16,000568 CH Equity,Luzhou Laojiao Co Ltd,0.848747
+17,002714 CH Equity,Muyuan Foods Co Ltd,0.814424
+18,600276 CH Equity,Jiangsu Hengrui Medicine Co Ltd,0.805887
+19,600438 CH Equity,Tongwei Co Ltd,0.796358
+20,601398 CH Equity,ICBC,0.791163
+21,300760 CH Equity,Shenzhen Mindray Bio-Medical Electronics,0.7427
+22,000651 CH Equity,Gree Electric Appliances Inc of Zhuhai,0.741983
+23,000725 CH Equity,BOE Technology Group Co Ltd,0.73964
+24,002415 CH Equity,HIKVISION,0.736209
+25,600809 CH Equity,Shanxi Fen Wine,0.726836
+26,600309 CH Equity,Wanhua Chemical Group Co Ltd,0.719885
+27,300274 CH Equity,Sungrow Power Supply Co Ltd,0.719784
+28,601899 CH Equity,Zijin Mining Group Co Ltd,0.686659
+29,300498 CH Equity,Wens Foodstuffs Group Co Ltd,0.659208
+30,601328 CH Equity,Bank of Communications Co Ltd,0.65299
+31,000792 CH Equity,Qinghai Salt Lake Industry Co Ltd,0.645706
+32,000001 CH Equity,Ping An Bank Co Ltd,0.638939
+33,600048 CH Equity,PRE,0.624258
+34,002466 CH Equity,Tianqi Lithium Corp,0.620615
+35,002129 CH Equity,TZE,0.605962
+36,300014 CH Equity,Eve Energy Co Ltd,0.597963
+37,002142 CH Equity,Bank of Ningbo Co Ltd,0.591103
+38,300124 CH Equity,Shenzhen Inovance Technology Co Ltd,0.580785
+39,603288 CH Equity,Foshan Haitian Flavouring & Food Co Ltd,0.565407
+40,000002 CH Equity,China Vanke Co Ltd,0.565152
+41,002812 CH Equity,Yunnan Energy New Material Co Ltd,0.556031
+42,601668 CH Equity,CSCEC,0.544091
+43,002304 CH Equity,YANGHE,0.542141
+44,601088 CH Equity,China Shenhua Energy Co Ltd,0.537234
+45,300015 CH Equity,Aier Eye Hospital Group Co Ltd,0.534182
+46,603799 CH Equity,Zhejiang Huayou Cobalt Co Ltd,0.53069
+47,002460 CH Equity,Ganfeng Lithium Co Ltd,0.526322
+48,002352 CH Equity,SF Holding Co Ltd,0.503057
+49,600089 CH Equity,TBEA Co Ltd,0.500534
+50,002049 CH Equity,Unigroup Guoxin Microelectronics Co Ltd,0.48902
+51,600406 CH Equity,NARI Technology Co Ltd,0.485134
+52,600031 CH Equity,Sany Heavy Industry Co Ltd,0.480965
+53,600837 CH Equity,Haitong Securities Co Ltd,0.477945
+54,600690 CH Equity,Haier Smart Home Co Ltd,0.475914
+55,601288 CH Equity,Agricultural Bank of China Ltd,0.46716
+56,601816 CH Equity,Beijing-Shanghai High Speed Railway Co L,0.46581
+57,600016 CH Equity,China Minsheng Banking Corp Ltd,0.465012
+58,600436 CH Equity,PIEN TZE HUANG,0.459663
+59,601225 CH Equity,Shaanxi Coal Industry Co Ltd,0.457003
+60,601919 CH Equity,COSCO SHIPPING Holdings Co Ltd,0.453598
+61,600000 CH Equity,Shanghai Pudong Development Bank Co Ltd,0.440486
+62,600919 CH Equity,Bank of Jiangsu Co Ltd,0.434097
+63,002241 CH Equity,GoerTek Inc,0.429986
+64,000063 CH Equity,ZTE Corp,0.405636
+65,688981 CH Equity,SMIC,0.404469
+66,601688 CH Equity,Huatai Securities Co Ltd,0.401954
+67,688599 CH Equity,Trina Solar Co Ltd,0.400649
+68,603986 CH Equity,GigaDevice Semiconductor Inc,0.397271
+69,600585 CH Equity,Anhui Conch Cement Co Ltd,0.396627
+70,000625 CH Equity,Chongqing Changan Automobile Co Ltd,0.393147
+71,002371 CH Equity,NAURA Technology Group Co Ltd,0.389266
+72,300122 CH Equity,ZHIFEI-BIOL,0.380632
+73,600104 CH Equity,SAIC Motor Corp Ltd,0.379767
+74,601601 CH Equity,China Pacific Insurance Group Co Ltd,0.361058
+75,002230 CH Equity,Iflytek Co Ltd,0.360204
+76,300142 CH Equity,Walvax Biotechnology Co Ltd,0.354121
+77,002709 CH Equity,TINCI,0.354045
+78,600111 CH Equity,CNRE,0.348958
+79,601211 CH Equity,Guotai Junan Securities Co Ltd,0.344642
+80,603501 CH Equity,Will Semiconductor Co Ltd Shanghai,0.342228
+81,600050 CH Equity,China United Network Communications Ltd,0.340577
+82,600893 CH Equity,AECC Aviation Power Co Ltd,0.331555
+83,601988 CH Equity,Bank of China Ltd,0.331387
+84,002271 CH Equity,ORIENTAL YUHONG,0.331259
+85,300450 CH Equity,Wuxi Lead Intelligent Equipment Co Ltd,0.329395
+86,000338 CH Equity,Weichai Power Co Ltd,0.326942
+87,601985 CH Equity,China National Nuclear Power Co Ltd,0.321304
+88,601169 CH Equity,Bank of Beijing Co Ltd,0.316414
+89,600660 CH Equity,Fuyao Glass Industry Group Co Ltd,0.316302
+90,000100 CH Equity,TCL Technology Group Corp,0.315253
+91,002027 CH Equity,FOCUS MEDIA,0.312135
+92,601766 CH Equity,CRRC Corp Ltd,0.311813
+93,002459 CH Equity,JA Solar Technology Co Ltd,0.311043
+94,601669 CH Equity,Power Construction Corp of China Ltd,0.310012
+95,601229 CH Equity,Bank of Shanghai Co Ltd,0.300851
+96,601390 CH Equity,China Railway Group Ltd,0.299952
+97,000661 CH Equity,CCHN,0.299128
+98,600028 CH Equity,China Petroleum & Chemical Corp,0.295731
+99,600009 CH Equity,Shanghai International Airport Co Ltd,0.288731
+100,300347 CH Equity,Hangzhou Tigermed Consulting Co Ltd,0.285925
+101,601009 CH Equity,Bank of Nanjing Co Ltd,0.282362
+102,600905 CH Equity,China Three Gorges New Energy (Group) Co,0.281585
+103,601857 CH Equity,PetroChina Co Ltd,0.275765
+104,002311 CH Equity,Guangdong Haid Group Co Ltd,0.27015
+105,600196 CH Equity,FOSUN PHARMA,0.269672
+106,300316 CH Equity,JINGSHENG,0.258315
+107,601628 CH Equity,China Life Insurance Co Ltd,0.257
+108,002050 CH Equity,SANHUA,0.255854
+109,600570 CH Equity,Hundsun Technologies Inc,0.254135
+110,600999 CH Equity,China Merchants Securities Co Ltd,0.253805
+111,600150 CH Equity,China CSSC Holdings Ltd,0.25111
+112,002179 CH Equity,AVIC Jonhon Optronic Technology Co Ltd,0.25068
+113,601658 CH Equity,Postal Savings Bank of China Co Ltd,0.250653
+114,002410 CH Equity,Glodon Co Ltd,0.250344
+115,000776 CH Equity,GF Securities Co Ltd,0.249567
+116,300896 CH Equity,Imeik Technology Development Co Ltd,0.249109
+117,600760 CH Equity,AVIC Shenyang Aircraft Co Ltd,0.247745
+118,600019 CH Equity,Baoshan Iron & Steel Co Ltd,0.247284
+119,600010 CH Equity,Inner Mongolia BaoTou Steel Union Co Ltd,0.247191
+120,600745 CH Equity,Wingtech Technology Co Ltd,0.243847
+121,601818 CH Equity,China Everbright Bank Co Ltd,0.243771
+122,688012 CH Equity,Advanced Micro-Fabrication Equipment Inc,0.243363
+123,001979 CH Equity,CMSK,0.242905
+124,000895 CH Equity,SHUANGHUI,0.241991
+125,603659 CH Equity,Shanghai Putailai New Energy Technology,0.238902
+126,600958 CH Equity,Orient Securities Co Ltd/China,0.237948
+127,600188 CH Equity,Yankuang Energy Group Co Ltd,0.232983
+128,002920 CH Equity,Huizhou Desay Sv Automotive Co Ltd,0.231966
+129,002001 CH Equity,Zhejiang NHU Co Ltd,0.231348
+130,600426 CH Equity,Shandong Hualu Hengsheng Chemical Co Ltd,0.229825
+131,601377 CH Equity,Industrial Securities Co Ltd,0.228404
+132,002493 CH Equity,Rongsheng Petrochemical Co Ltd,0.227457
+133,601989 CH Equity,China Shipbuilding Industry Co Ltd,0.224813
+134,300496 CH Equity,Thunder Software Technology Co Ltd,0.224062
+135,601633 CH Equity,Great Wall Motor Co Ltd,0.222183
+136,600926 CH Equity,Bank of Hangzhou Co Ltd,0.219257
+137,002074 CH Equity,Gotion High-tech Co Ltd,0.213065
+138,600346 CH Equity,Hengli Petrochemical Co Ltd,0.212257
+139,000596 CH Equity,Anhui Gujing Distillery Co Ltd,0.210306
+140,300661 CH Equity,SG Micro Corp,0.208087
+141,600795 CH Equity,GD Power Development Co Ltd,0.207315
+142,300763 CH Equity,Ginlong Technologies Co Ltd,0.202961
+143,000768 CH Equity,AVIC AIRCRAFT,0.201136
+144,000538 CH Equity,Yunnan Baiyao Group Co Ltd,0.199428
+145,000301 CH Equity,Jiangsu Eastern Shenghong Co Ltd,0.196622
+146,000166 CH Equity,Shenwan Hongyuan Group Co Ltd,0.196462
+147,600600 CH Equity,Tsingtao Brewery Co Ltd,0.196322
+148,601006 CH Equity,Daqin Railway Co Ltd,0.19626
+149,600011 CH Equity,Huaneng Power International Inc,0.195859
+150,601138 CH Equity,Foxconn Industrial Internet Co Ltd,0.193795
+151,601877 CH Equity,Zhejiang Chint Electrics Co Ltd,0.193342
+152,601600 CH Equity,Aluminum Corp of China Ltd,0.191385
+153,603993 CH Equity,CMOC Group Ltd,0.19104
+154,601939 CH Equity,China Construction Bank Corp,0.190269
+155,000963 CH Equity,Huadong Medicine Co Ltd,0.189499
+156,002202 CH Equity,GOLDWIND,0.188989
+157,300207 CH Equity,Sunwoda Electronic Co Ltd,0.188379
+158,603806 CH Equity,Hangzhou First Applied Material Co Ltd,0.185729
+159,600584 CH Equity,JCET Group Co Ltd,0.185351
+160,600176 CH Equity,China Jushi Co Ltd,0.184088
+161,002821 CH Equity,Asymchem Laboratories Tianjin Co Ltd,0.18233
+162,000876 CH Equity,New Hope Liuhe Co Ltd,0.182109
+163,300751 CH Equity,Suzhou Maxwell Technologies Co Ltd,0.181722
+164,600460 CH Equity,Hangzhou Silan Microelectronics Co Ltd,0.181514
+165,600588 CH Equity,Yonyou Network Technology Co Ltd,0.17956
+166,601066 CH Equity,CSC Financial Co Ltd,0.176624
+167,300759 CH Equity,Pharmaron Beijing Co Ltd,0.175906
+168,601186 CH Equity,China Railway Construction Corp Ltd,0.1743
+169,003816 CH Equity,CGN Power Co Ltd,0.173293
+170,600886 CH Equity,SDIC Power Holdings Co Ltd,0.172825
+171,600085 CH Equity,Beijing Tongrentang Co Ltd,0.170908
+172,300408 CH Equity,Chaozhou Three-Circle Group Co Ltd,0.170655
+173,600029 CH Equity,China Southern Airlines Co Ltd,0.170195
+174,600547 CH Equity,Shandong Gold Mining Co Ltd,0.169083
+175,601117 CH Equity,CNCEC,0.167961
+176,601838 CH Equity,Bank of Chengdu Co Ltd,0.166338
+177,603019 CH Equity,Dawning Information Industry Co Ltd,0.16491
+178,601238 CH Equity,Guangzhou Automobile Group Co Ltd,0.16465
+179,600015 CH Equity,Huaxia Bank Co Ltd,0.163525
+180,600383 CH Equity,Gemdale Corp,0.162347
+181,600989 CH Equity,Ningxia Baofeng Energy Group Co Ltd,0.161766
+182,601111 CH Equity,Air China Ltd,0.160977
+183,601788 CH Equity,Everbright Securities Co Ltd,0.16005
+184,600741 CH Equity,Huayu Automotive Systems Co Ltd,0.1582
+185,300782 CH Equity,Maxscend Microelectronics Co Ltd,0.156359
+186,688111 CH Equity,Beijing Kingsoft Office Software Inc,0.156171
+187,603185 CH Equity,Wuxi Shangji Automation Co Ltd,0.152698
+188,600941 CH Equity,China Mobile Ltd,0.152483
+189,601868 CH Equity,China Energy Engineering Corp Ltd,0.151449
+190,002648 CH Equity,Satellite Chemical Co Ltd,0.150802
+191,601901 CH Equity,Founder Securities Co Ltd,0.150792
+192,000157 CH Equity,ZOOMLION CO. LTD.,0.150704
+193,603369 CH Equity,Jiangsu King's Luck Brewery JSC Ltd,0.149692
+194,688005 CH Equity,Ningbo Ronbay New Energy Technology Co L,0.148618
+195,000425 CH Equity,XCMG Construction Machinery Co Ltd,0.14825
+196,601800 CH Equity,China Communications Construction Co Ltd,0.144653
+197,688396 CH Equity,China Resources Microelectronics Ltd,0.144483
+198,601916 CH Equity,China Zheshang Bank Co Ltd,0.140944
+199,300999 CH Equity,Yihai Kerry Arawana Holdings Co Ltd,0.140498
+200,600132 CH Equity,Chongqing Brewery Co Ltd,0.140248
+201,601100 CH Equity,Jiangsu Hengli Hydraulic Co Ltd,0.138779
+202,002555 CH Equity,SANQI HUYU,0.138658
+203,002736 CH Equity,Guosen Securities Co Ltd,0.138567
+204,000786 CH Equity,Beijing New Building Materials PLC,0.137923
+205,600763 CH Equity,Topchoice Medical Corp,0.137491
+206,603290 CH Equity,StarPower Semiconductor Ltd,0.137416
+207,600115 CH Equity,China Eastern Airlines Corp Ltd,0.137324
+208,002236 CH Equity,Zhejiang Dahua Technology Co Ltd,0.137241
+209,002120 CH Equity,Yunda Holding Co Ltd,0.13677
+210,002008 CH Equity,HAN'S LASER,0.136047
+211,603260 CH Equity,Hoshine Silicon Industry Co Ltd,0.133775
+212,300628 CH Equity,Yealink Network Technology Corp Ltd,0.133593
+213,600219 CH Equity,Shandong Nanshan Aluminum Co Ltd,0.132459
+214,002601 CH Equity,LB Group Co Ltd,0.13204
+215,600352 CH Equity,Zhejiang Longsheng Group Co Ltd,0.130193
+216,000938 CH Equity,Unisplendour Corp Ltd,0.129861
+217,601995 CH Equity,China International Capital Corp Ltd,0.127524
+218,688008 CH Equity,Montage Technology Co Ltd,0.125679
+219,601336 CH Equity,New China Life Insurance Co Ltd,0.12276
+220,000977 CH Equity,LCXX,0.122085
+221,002252 CH Equity,Shanghai RAAS Blood Products Co Ltd,0.120677
+222,300454 CH Equity,Sangfor Technologies Inc,0.11944
+223,601618 CH Equity,Metallurgical Corp of China Ltd,0.118578
+224,603392 CH Equity,Beijing Wantai Biological Pharmacy Enter,0.118024
+225,603833 CH Equity,Oppein Home Group Inc,0.117616
+226,300601 CH Equity,KANGTAI BIOLOGICAL,0.115752
+227,002841 CH Equity,Guangzhou Shiyuan Electronic Technology,0.115697
+228,300433 CH Equity,Lens Technology Co Ltd,0.11562
+229,000069 CH Equity,Shenzhen Overseas Chinese Town Co Ltd,0.115125
+230,600845 CH Equity,Shanghai Baosight Software Co Ltd,0.114968
+231,300003 CH Equity,Lepu Medical Technology Beijing Co Ltd,0.11386
+232,688126 CH Equity,National Silicon Industry Group Co Ltd,0.113775
+233,300529 CH Equity,Jafron Biomedical Co Ltd,0.113081
+234,002007 CH Equity,Hualan Biological Engineering Inc,0.112864
+235,601799 CH Equity,"Xingyu Co.,Ltd",0.112813
+236,601865 CH Equity,Flat Glass Group Co Ltd,0.111899
+237,002938 CH Equity,Avary Holding Shenzhen Co Ltd,0.111763
+238,601878 CH Equity,Zheshang Securities Co Ltd,0.111287
+239,300413 CH Equity,Mango Excellent Media Co Ltd,0.109655
+240,600489 CH Equity,Zhongjin Gold Corp Ltd,0.109417
+241,601360 CH Equity,360 Security Technology Inc,0.108713
+242,601728 CH Equity,China Telecom Corp Ltd,0.105743
+243,002602 CH Equity,Zhejiang Century Huatong Group Co Ltd,0.105575
+244,600918 CH Equity,Zhongtai Securities Co Ltd,0.105301
+245,000703 CH Equity,Hengyi Petrochemical Co Ltd,0.104903
+246,603486 CH Equity,Ecovacs Robotics Co Ltd,0.100804
+247,300595 CH Equity,Ovctek China Inc,0.100297
+248,600332 CH Equity,BAIYUNSHAN PH,0.099435
+249,000708 CH Equity,Citic Pacific Special Steel Group Co Ltd,0.097585
+250,603882 CH Equity,Guangzhou Kingmed Diagnostics Group Co L,0.096817
+251,600183 CH Equity,Shengyi Technology Co Ltd,0.096714
+252,600161 CH Equity,BTBP,0.096409
+253,601898 CH Equity,China Coal Energy Co Ltd,0.095837
+254,601021 CH Equity,Spring Airlines Co Ltd,0.095436
+255,601155 CH Equity,Seazen Holdings Co Ltd,0.095378
+256,002414 CH Equity,Wuhan Guide Infrared Co Ltd,0.094646
+257,300919 CH Equity,CNGR Advanced Material Co Ltd,0.094577
+258,300033 CH Equity,FLUSH INFO,0.093454
+259,000066 CH Equity,China Greatwall Technology Group Co Ltd,0.093103
+260,002916 CH Equity,Shennan Circuits Co Ltd,0.092351
+261,600018 CH Equity,Shanghai International Port Group Co Ltd,0.091829
+262,600362 CH Equity,Jiangxi Copper Co Ltd,0.091749
+263,688036 CH Equity,Shenzhen Transsion Holdings Co Ltd,0.089021
+264,600061 CH Equity,SDIC Capital Co Ltd,0.085488
+265,300957 CH Equity,Yunnan Botanee Bio-Technology Group Co L,0.08333
+266,300223 CH Equity,Ingenic Semiconductor Co Ltd,0.082045
+267,603899 CH Equity,Shanghai M&G Stationery Inc,0.081346
+268,002600 CH Equity,Lingyi iTech Guangdong Co,0.081258
+269,601319 CH Equity,People's Insurance Co Group of China Ltd,0.07941
+270,000408 CH Equity,Zangge Mining Co Ltd,0.077771
+271,688169 CH Equity,Beijing Roborock Technology Co Ltd,0.076697
+272,601216 CH Equity,JUNZHENG,0.075837
+273,601966 CH Equity,Shandong Linglong Tyre Co Ltd,0.073723
+274,688363 CH Equity,Bloomage Biotechnology Corp Ltd,0.070958
+275,688561 CH Equity,Qi An Xin Technology Group Inc,0.070944
+276,601998 CH Equity,China CITIC Bank Corp Ltd,0.069497
+277,600025 CH Equity,Huaneng Lancang River Hydropower Inc,0.068745
+278,600606 CH Equity,Greenland Holdings Corp Ltd,0.068043
+279,603160 CH Equity,Shenzhen Goodix Technology Co Ltd,0.067075
+280,688065 CH Equity,Cathay Biotech Inc,0.065918
+281,600655 CH Equity,YYTM,0.065085
+282,002568 CH Equity,BRGF,0.062398
+283,603195 CH Equity,Gongniu Group Co Ltd,0.060504
+284,601881 CH Equity,China Galaxy Securities Co Ltd,0.060345
+285,002791 CH Equity,KINLONG,0.059993
+286,002064 CH Equity,Huafon Chemical Co Ltd,0.059794
+287,300866 CH Equity,Anker Innovations Technology Co Ltd,0.053923
+288,601808 CH Equity,China Oilfield Services Ltd,0.046056
+289,603087 CH Equity,Gan & Lee Pharmaceuticals Co Ltd,0.042799
+290,002607 CH Equity,Offcn Education Technology Co Ltd,0.042725
+291,601236 CH Equity,Hongta Securities Co Ltd,0.041903
+292,000800 CH Equity,FAW Jiefang Group Co Ltd,0.041008
+293,002032 CH Equity,Zhejiang Supor Co Ltd,0.037691
+294,605499 CH Equity,Eastroc Beverage Group Co Ltd,0.034199
+295,000877 CH Equity,Xinjiang Tianshan Cement Co Ltd,0.030965
+296,300979 CH Equity,Huali Industrial Group Co Ltd,0.028752
+297,601825 CH Equity,Shanghai Rural Commercial Bank Co Ltd,0.028076
+298,601698 CH Equity,China Satellite Communications Co Ltd,0.024385
+299,001289 CH Equity,China Longyuan Power Group Corp Ltd,0.017472
